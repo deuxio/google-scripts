@@ -39,6 +39,7 @@ Le script ci-dessous va obtenir des données sur l'entreprise à partir de son S
 Le script va se connecter à la sirène et obtenir toutes les données qu'elle possède sur votre entreprise. Il ajoutera le prénom, le nom, l'intitulé du poste et l'adresse électronique de tous les employés. Il ajoutera également tous les produits ou services offerts par votre entreprise. Après avoir terminé, il supprimera les données déjà ajoutées par la Sirène.
 
 Le script ci-dessus récupérera les données d'une entreprise à partir de son identifiant SIREN et l'ajoutera à votre feuille de calcul en utilisant la fonction suivante:
+
 ```=sirene(SIREN)```
 
 
